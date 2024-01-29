@@ -1,5 +1,3 @@
-# furstat-petcare
-
 ## Name
 Furstat - Pet Care App
 
