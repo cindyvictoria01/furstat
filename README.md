@@ -14,4 +14,4 @@ Feeding and bathing schedule reminder app for your pets. Create your personalize
 Cindy B. Victoria
 
 ## License
-credits: Cindy B. Victoria 
+credits: Cindy B. Victoria @cindyvictoria01
